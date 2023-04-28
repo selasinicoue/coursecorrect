@@ -1,0 +1,36 @@
+
+div.books{
+    width: 40%;
+    height: 40%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    display: inline-block;
+    margin: 20px 60px 20px 60px;
+    
+}
+div.books:hover{
+    opacity: 0.7;
+}
+
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+body{
+    font-family: Verdana;
+    font-size: medium;
+    font-style: italic;
+    background-color:beige;
+}
+h1{
+    background-color:burlywood;
+    text-align: center;
+    font-size: 30px;
+    padding:20px 20px 20px 20px;
+    text-shadow: 2px, white;
+
+    
+    
+}
+
